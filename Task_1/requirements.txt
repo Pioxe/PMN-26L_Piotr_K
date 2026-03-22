@@ -1,0 +1,6 @@
+ucimlrepo
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
